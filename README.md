@@ -11,4 +11,5 @@
 3. 項目３
 文章の**ここだけ**強調します。
 ---
-
+Receives notifications 通知を受け取ります
+Unverified 未検証
